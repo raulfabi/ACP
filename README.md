@@ -23,7 +23,7 @@ A comprehensive desktop application for managing AzerothCore private server comp
 
 Watch ACP in action! The video will play directly in your browser:
 
-<video src="https://github.com/raulfabi/ACP/assets/raw/main/videos/acp-demo.mp4" controls width="100%"></video>
+![ACP Demo Video](https://github.com/raulfabi/ACP/assets/raw/main/videos/acp-demo.mp4)
 
 *Comprehensive demonstration of ACP features including server management, database operations, and process monitoring.*
 
