@@ -15,7 +15,7 @@ A comprehensive desktop application for managing AzerothCore private server comp
 
 ## 📸 Screenshot
 
-![ACP Main Window](https://github.com/yourusername/ACP/raw/main/screenshots/acp-main-window.png)
+![ACP Main Window](https://github.com/raulfabi/ACP/raw/main/screenshots/acp-main-window.png)
 
 *The ACP main interface showing server controls, database management, and process monitoring features.*
 
@@ -45,7 +45,7 @@ pip install pywin32
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ACP.git
+git clone https://github.com/raulfabi/ACP.git
 cd ACP
 ```
 
@@ -151,9 +151,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/ACP/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/ACP/discussions)
-- **Wiki**: [Project Wiki](https://github.com/yourusername/ACP/wiki)
+- **Issues**: [GitHub Issues](https://github.com/raulfabi/ACP/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/raulfabi/ACP/discussions)
+- **Wiki**: [Project Wiki](https://github.com/raulfabi/ACP/wiki)
 
 ---
 
