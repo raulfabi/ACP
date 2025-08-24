@@ -2,6 +2,8 @@
 
 This guide will walk you through installing and setting up AzerothCore Control Panel (ACP) on your system.
 
+> **💡 Tip**: Watch our [demo video](https://github.com/raulfabi/ACP/raw/main/videos/acp-demo.mp4) to see ACP in action before installing!
+
 ## Prerequisites
 
 Before installing ACP, ensure you have the following:

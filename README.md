@@ -19,6 +19,12 @@ A comprehensive desktop application for managing AzerothCore private server comp
 
 *The ACP main interface showing server controls, database management, and process monitoring features.*
 
+## 🎥 Video Demo
+
+Watch ACP in action! [View Demo Video](https://github.com/raulfabi/ACP/raw/main/videos/acp-demo.mp4)
+
+*Comprehensive demonstration of ACP features including server management, database operations, and process monitoring.*
+
 ## 🛠️ Requirements
 
 - **Python**: 3.8 or higher
@@ -76,6 +82,8 @@ ACP/
 ├── app_icon.ico        # Application icon
 ├── background*.png      # UI background images
 ├── icons/              # Application icons
+├── screenshots/         # Application screenshots
+├── videos/              # Demo videos and tutorials
 ├── config/             # Configuration files (auto-created)
 └── logs/               # Log files (auto-created)
 ```

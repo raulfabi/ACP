@@ -173,6 +173,9 @@ logs/
 # Screenshots - Include these in repository
 # screenshots/
 
+# Videos - Include these in repository
+# videos/
+
 # Windows specific
 *.exe
 *.msi
